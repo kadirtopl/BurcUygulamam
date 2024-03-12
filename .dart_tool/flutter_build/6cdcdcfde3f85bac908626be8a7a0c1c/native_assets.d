@@ -1,0 +1,1 @@
+ C:\\Users\\ktopa\\untitled2\\.dart_tool\\flutter_build\\6cdcdcfde3f85bac908626be8a7a0c1c\\native_assets.yaml: 
